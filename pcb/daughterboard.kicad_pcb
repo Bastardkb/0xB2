@@ -2064,7 +2064,13 @@
   (gr_text "GND" (at 46.026152 58.294397 -45) (layer "B.SilkS") (tstamp 0082be9e-2788-4365-bb92-4f9d2fc09c7e)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
+  (gr_text "D-" (at 107.987816 57.802755 -15) (layer "B.SilkS") (tstamp 0ff945b2-b1c1-42cd-a884-6a1825de5130)
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+  )
   (gr_text "D-" (at 68.235 57.678152 -15) (layer "B.SilkS") (tstamp 47500490-d014-41a8-9425-f2ea4cba1b2b)
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "D+" (at 106.600608 59.953449 -15) (layer "B.SilkS") (tstamp 53c5be92-c0c4-47d7-8633-7af8195c842b)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
   (gr_text "VBUS" (at 45.797184 55.765397 -45) (layer "B.SilkS") (tstamp 5f1f7a51-748d-440d-bf8b-cc68e3a356d3)
@@ -2073,8 +2079,17 @@
   (gr_text "D+" (at 66.847792 59.828846 -15) (layer "B.SilkS") (tstamp 81b47af2-5db2-44f8-a509-aa69b1862de8)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
+  (gr_text "GND" (at 85.778968 58.419 -45) (layer "B.SilkS") (tstamp 8ecd5bd6-8d66-45c7-bdc6-0ef66b59a163)
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+  )
   (gr_text "Solder on this side" (at 56.16 62.303152) (layer "B.SilkS") (tstamp e1c0929f-f529-4a54-8b45-dc1c2d23eeb1)
     (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+  )
+  (gr_text "VBUS" (at 85.55 55.89 -45) (layer "B.SilkS") (tstamp ff73c9f7-4483-4325-aba1-882906f0fa69)
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "GND" (at 85.962816 59.454603 45) (layer "F.SilkS") (tstamp 1402f9be-3a43-4fa9-94bb-f4ec411d4f4e)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (gr_text "Solder on this side" (at 97.61 62.24) (layer "F.SilkS") (tstamp 15f5fbed-6926-472d-bfa3-02af449d388f)
     (effects (font (size 1 1) (thickness 0.2)))
@@ -2082,16 +2097,25 @@
   (gr_text "R1" (at 94.965 63.45) (layer "F.SilkS") (tstamp 2668a6c2-b042-4bac-a909-36fcbb5b9108)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (gr_text "VBUS" (at 85.733848 56.925603 45) (layer "F.SilkS") (tstamp 2cb86200-bc29-4779-b7a9-8bc6408abb5d)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
   (gr_text "GND" (at 46.21 59.33 45) (layer "F.SilkS") (tstamp 35619650-4ed2-4932-b3e4-87a5d01588e8)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (gr_text "D-" (at 68.56 57.903152 15) (layer "F.SilkS") (tstamp 3ff2625b-3f11-4395-ba4d-ebb3dd79077e)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
+  (gr_text "D-" (at 108.312816 58.027755 15) (layer "F.SilkS") (tstamp 5be3fcf0-46cd-4786-b369-3cea9f1e6915)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
   (gr_text "VBUS" (at 45.981032 56.801 45) (layer "F.SilkS") (tstamp 811ecad3-93f5-43f9-af5d-4d563c073d82)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (gr_text "D+" (at 67.097208 59.978846 15) (layer "F.SilkS") (tstamp aab4584e-b3b5-40c9-b7f0-2cdae98a5e08)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (gr_text "D+" (at 106.850024 60.103449 15) (layer "F.SilkS") (tstamp f567ebe0-93fd-43fa-b74d-07b5c71a5caf)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
 
@@ -2160,6 +2184,24 @@
   (segment (start 57.79 60.47) (end 57.79 58.385) (width 0.16) (layer "F.Cu") (net 7) (tstamp ad64683d-010c-4165-b7c9-bdb9b865521a))
   (segment (start 57.88 60.56) (end 57.79 60.47) (width 0.16) (layer "F.Cu") (net 7) (tstamp fe625d0e-b260-4131-b352-ba52fd7e30fd))
 
+  (group "" (id 17f6d1cc-928e-464e-bd5a-7a2780c71bd3)
+    (members
+      5be3fcf0-46cd-4786-b369-3cea9f1e6915
+      f567ebe0-93fd-43fa-b74d-07b5c71a5caf
+    )
+  )
+  (group "" (id 2d3d0cfd-134c-4ee0-a173-10009ac37df4)
+    (members
+      0ff945b2-b1c1-42cd-a884-6a1825de5130
+      53c5be92-c0c4-47d7-8633-7af8195c842b
+    )
+  )
+  (group "" (id 2deb0d77-220a-4a1d-b183-9907b7805844)
+    (members
+      1402f9be-3a43-4fa9-94bb-f4ec411d4f4e
+      2cb86200-bc29-4779-b7a9-8bc6408abb5d
+    )
+  )
   (group "" (id 480e8978-8d31-47b8-99c4-efe879f6d8e9)
     (members
       3ff2625b-3f11-4395-ba4d-ebb3dd79077e
@@ -2198,6 +2240,12 @@
       d234ead0-ee45-4c36-959c-b7da8b555373
       db5f77fc-4656-4629-ab96-be32c9b5d6c5
       db7bd9c8-0293-47b9-a0dd-8b6c968fe2b6
+    )
+  )
+  (group "" (id 90201bdb-25a5-44d0-9fe0-05e41702f812)
+    (members
+      8ecd5bd6-8d66-45c7-bdc6-0ef66b59a163
+      ff73c9f7-4483-4325-aba1-882906f0fa69
     )
   )
   (group "" (id 95213a22-0bde-47b6-a246-ae9506bdae5f)

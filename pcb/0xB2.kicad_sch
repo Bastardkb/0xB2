@@ -4298,7 +4298,7 @@
     (uuid 6cbb1601-aee9-4b85-b6c4-65af6cce90fe)
     (property "Reference" "JP1" (id 0) (at 453.39 43.18 0))
     (property "Value" "Jumper_2_Open" (id 1) (at 453.39 45.72 0))
-    (property "Footprint" "" (id 2) (at 453.39 49.53 0)
+    (property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (id 2) (at 453.39 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 453.39 49.53 0)
@@ -5319,7 +5319,7 @@
     (uuid e6e604e3-e924-4286-a2fc-11cd9fe47f3f)
     (property "Reference" "JP2" (id 0) (at 453.39 52.705 0))
     (property "Value" "Jumper_2_Open" (id 1) (at 453.39 55.245 0))
-    (property "Footprint" "" (id 2) (at 453.39 59.055 0)
+    (property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (id 2) (at 453.39 59.055 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 453.39 59.055 0)
@@ -5690,10 +5690,10 @@
       (reference "J15") (unit 1) (value "Conn_01x02_Female") (footprint "Library:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/6cbb1601-aee9-4b85-b6c4-65af6cce90fe"
-      (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "")
+      (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/e6e604e3-e924-4286-a2fc-11cd9fe47f3f"
-      (reference "JP2") (unit 1) (value "Jumper_2_Open") (footprint "")
+      (reference "JP2") (unit 1) (value "Jumper_2_Open") (footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/81213cff-519c-4fcf-ae25-6fad0fc859bb"
       (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")

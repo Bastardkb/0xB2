@@ -294,7 +294,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/08eed42f-b0b5-4dbc-8033-da3ce74644a6")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J6" (at 0 -2.33) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 725b2f20-69e2-4be8-8568-1e389ee1dde7)
@@ -345,7 +345,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/909539b0-d574-4da4-8d79-48e0f3a24595")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H2" (at 0 -5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 280e275f-f306-482f-bee8-87b9d13e6dac)
@@ -416,7 +416,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/6cbb1601-aee9-4b85-b6c4-65af6cce90fe")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP1" (at 0 -1.8 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 42e77a2d-025e-46ec-bb34-90ed1dd15340)
@@ -1065,7 +1065,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/8c1bed2c-3142-4505-b7b9-858c5494e527")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J10" (at 0 -2.33) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aa01cb52-1237-42d3-baf5-54cb957e44cd)
@@ -2052,7 +2052,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/8d1dcb61-085e-43fc-9e7c-49d571e866c3")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J15" (at 0 -2.33 -30) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6a4191db-6adc-4433-b658-a6bfdfa95a8a)
@@ -2184,7 +2184,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/77ef8c38-9b1f-4138-908b-505d03b4e7ad")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J8" (at 0 -2.33) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 48ec5117-ddfb-4cd4-89f6-ce01a6699f22)
@@ -2459,7 +2459,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/75df9d90-1b85-489e-9b08-365c60ea6910")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J11" (at 0 -2.33) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 12d17ccc-a274-4246-826c-6923779fa552)
@@ -2501,7 +2501,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/b4f3deb9-ff7a-4ab8-aa63-bde787a78d58")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J7" (at 0 -2.33) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b18d7170-7e65-4653-b9f4-ee2e69881775)
@@ -2637,7 +2637,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/7e27e11b-0033-4f6c-a305-222116b5af33")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H1" (at 0 -5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 79060d7f-785c-4e21-9e2e-9cfdabad60eb)
@@ -2707,7 +2707,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/f7e01222-0d82-4e1f-9a41-ae5976a3409d")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J14" (at 0 -2.33 180) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b3ed612d-4b95-418f-bfae-ed954c910011)
@@ -3445,7 +3445,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/e6e604e3-e924-4286-a2fc-11cd9fe47f3f")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP2" (at 0 1.8 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 1eb42abd-1deb-463e-b751-41637bf1529b)
@@ -4267,7 +4267,7 @@
     (property "Sheetfile" "0xB2.kicad_sch")
     (property "Sheetname" "")
     (path "/ebcff7cc-fb57-4b9a-ace4-aee39a7dc237")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J9" (at 2.54 13.97) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp df69d4e4-80df-4941-9e37-c1292de22a0e)

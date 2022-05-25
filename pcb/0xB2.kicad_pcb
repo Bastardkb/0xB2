@@ -4657,7 +4657,7 @@
   (gr_text "C4" (at 150.064724 118.340001 45) (layer "F.SilkS") (tstamp d96d1d96-523f-4b7e-9fdc-60f0ae1536c0)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (gr_text "0.1b" (at 167.925 113.25) (layer "F.SilkS") (tstamp dc0f6f86-0ba4-48c2-adce-e72e58666cf3)
+  (gr_text "0.1c" (at 167.925 113.25) (layer "F.SilkS") (tstamp dc0f6f86-0ba4-48c2-adce-e72e58666cf3)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (gr_text "GND" (at 147.596032 83.682073 45) (layer "F.SilkS") (tstamp dc43e035-fcbe-4f75-a66a-6ec41b0eb03e)

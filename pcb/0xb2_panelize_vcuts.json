@@ -1,0 +1,11 @@
+{
+    "tabs": {
+        "type": "fixed",
+        "width": "20mm",
+        "hcount": 1,
+        "vcount": 0,
+    },
+    "cuts": {
+        "type": "vcuts",
+    }
+}

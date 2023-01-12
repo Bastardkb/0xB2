@@ -26,6 +26,10 @@ fp-info-cache
 *.xml
 *.csv
 
+# gerbers and panels
+pcb/panel
+pcb/panel/*
+
 # CAD folder
 cad/*
 

@@ -5,6 +5,9 @@ Designed for use in custom mechanical (split) keyboards, but many other uses are
 
 ![Splinky v2](pcb/doc/splinky_v1_photo.jpg?raw=true "Splinvy v1")
 
+**This is a fork from the [0xb2 - splinky](https://github.com/plut0nium/0xB2) by plut0nium.**
+**It uses a different usb-C port, which is similar to the one of the elite-C and will fit in the Bastardkb case designs.**
+
 ## Features:
 
  * Pro-micro / Sparkfun RP2040 compatible footprint, with 5 extra pins at bottom (Elite-C style)
